@@ -1,0 +1,27 @@
+#navbar{
+    background-color: white;
+    /* color: yellow; */
+}
+
+.brand-logo{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: left;
+}
+nav .brand-logo{
+    color:#ffea00;
+}
+
+nav .sidenav-trigger{
+    color: grey;
+}
+#taxi{
+    background-color: #ffea00;
+    background-image: url("lab-car-boilerplate/assets/images/taxi.jpg");
+    background-size: cover;
+}
+
+#car{
+    background-image: url("lab-car-boilerplate/assets/images/conduce.jpg");
+    background-size: cover;
+}
